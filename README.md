@@ -1,3 +1,26 @@
+#Conclusão do Curso de CSS: Dispondo elementos com Flexbox e Grid
+
+Neste curso foi abordado:
+
+- Relacionando o flexbox com maneiras já conhecidas de posicionamento de elementos
+- Vendo o flexbox e suas propriedades para o posicionamento de elementos
+- Produzindo o cabeçalho utilizando as ferramentas do flexbox
+- Identificando as limitações do flexbox
+- Diferenciando o flexbox do grid
+- Prototipando o layout de um cartão utilizando propriedades básicas do grid
+- Reconhecendo no layout do figma o que pode fazer parte de um grid
+- Associando as propriedades novas com o que já existe de estrutura no projeto
+- Vendo como o layout atual se comporta em um dispositivo diferente
+- Resolvendo os problemas com novas propriedades de grid
+- Produzindo o restante do layout com novas propriedades de grid
+- Identificando problemas como: repetição de código, manutenção e unidades de medida
+- Entendendo as vantagens de se utilizar a abordagem do grid
+- Planejando como pode ser a construção das outras páginas do projeto utilizando as técnicas aprendidas
+
+<h1>
+    <img width="965px" src="https://github.com/juniatech/FLEXBOX-GRID/blob/main/flexboxegrid-final.jpeg">
+</h1>
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
